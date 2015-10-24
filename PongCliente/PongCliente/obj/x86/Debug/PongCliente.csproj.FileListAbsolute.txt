@@ -1,0 +1,12 @@
+C:\Users\Hornet\documents\visual studio 2010\Projects\PongCliente\PongCliente\bin\Debug\PongCliente.exe
+C:\Users\Hornet\documents\visual studio 2010\Projects\PongCliente\PongCliente\bin\Debug\PongCliente.pdb
+C:\Users\Hornet\documents\visual studio 2010\Projects\PongCliente\PongCliente\obj\x86\Debug\PongCliente.csprojResolveAssemblyReference.cache
+C:\Users\Hornet\documents\visual studio 2010\Projects\PongCliente\PongCliente\obj\x86\Debug\PongCliente.Form1.resources
+C:\Users\Hornet\documents\visual studio 2010\Projects\PongCliente\PongCliente\obj\x86\Debug\PongCliente.Properties.Resources.resources
+C:\Users\Hornet\documents\visual studio 2010\Projects\PongCliente\PongCliente\obj\x86\Debug\PongCliente.csproj.GenerateResource.Cache
+C:\Users\Hornet\documents\visual studio 2010\Projects\PongCliente\PongCliente\obj\x86\Debug\PongCliente.exe
+C:\Users\Hornet\documents\visual studio 2010\Projects\PongCliente\PongCliente\obj\x86\Debug\PongCliente.pdb
+C:\Users\Hornet\documents\visual studio 2010\Projects\PongCliente\PongCliente\bin\Debug\PongCliente.exe.manifest
+C:\Users\Hornet\documents\visual studio 2010\Projects\PongCliente\PongCliente\bin\Debug\PongCliente.application
+C:\Users\Hornet\documents\visual studio 2010\Projects\PongCliente\PongCliente\obj\x86\Debug\PongCliente.exe.manifest
+C:\Users\Hornet\documents\visual studio 2010\Projects\PongCliente\PongCliente\obj\x86\Debug\PongCliente.application

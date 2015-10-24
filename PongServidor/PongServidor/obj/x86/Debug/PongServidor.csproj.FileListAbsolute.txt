@@ -1,0 +1,8 @@
+c:\users\hornet\documents\visual studio 2010\Projects\PongServidor\PongServidor\bin\Debug\PongServidor.exe
+c:\users\hornet\documents\visual studio 2010\Projects\PongServidor\PongServidor\bin\Debug\PongServidor.pdb
+c:\users\hornet\documents\visual studio 2010\Projects\PongServidor\PongServidor\obj\x86\Debug\PongServidor.csprojResolveAssemblyReference.cache
+c:\users\hornet\documents\visual studio 2010\Projects\PongServidor\PongServidor\obj\x86\Debug\PongServidor.Form1.resources
+c:\users\hornet\documents\visual studio 2010\Projects\PongServidor\PongServidor\obj\x86\Debug\PongServidor.Properties.Resources.resources
+c:\users\hornet\documents\visual studio 2010\Projects\PongServidor\PongServidor\obj\x86\Debug\PongServidor.csproj.GenerateResource.Cache
+c:\users\hornet\documents\visual studio 2010\Projects\PongServidor\PongServidor\obj\x86\Debug\PongServidor.exe
+c:\users\hornet\documents\visual studio 2010\Projects\PongServidor\PongServidor\obj\x86\Debug\PongServidor.pdb
